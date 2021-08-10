@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Crub-vuejs",
+            "group": "localhost",
+            "database": "vuepensamientos"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
